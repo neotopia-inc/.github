@@ -1,29 +1,26 @@
 # :earth_asia: Neotopia
 
-Neotopiaは、AR技術によって現実と情報が今よりもさらに一体化していく中で、より良い人間の体験とはどのようなことかを考え、この世界を、人間の体験を、アップデートするサービスを開発するプロジェクトです。  
-現実の世界に紐づいた新しいCommunication Layerを構築することで、Neotopiaは世界中の人が自分を・街を・隣人を今よりも好きになれるような体験の創出を目指しています。
-
 ---
-
-### :fire: Mission
-
-**『現実と情報を一体化して、人間の体験をアップデートする』**
 
 ### :chart_with_upwards_trend: Vision
 
-**『"より良いここ" を作っていくことで、自分を・街を・隣人を好きになる』**
+**「自分と世界を進化させる、自分と世界を好きになる」**
+
+### :fire: Mission
+
+**「AIとデジタルツインで、人間をアップデートする」**
 
 ### :sparkles: Value
 
-**Be Innovative** / **Be Open** / **Diversity** / **Discover the CORE**
+**Aim Higher** / **Adore Trust** / **Do Agile**
 
 ---
 
 <details>
 <summary><h4>:handshake: Neotopiaチームに参加する？</h4></summary>
 
-私たちと一緒に"新しい世界"を構築するのに興味がある方は、ぜひ気軽にお声掛けください！  
-Engineer(Unity, AWS, and more!)、Marketer、Designer、Researcher、Community Manager、現状ポストは無限です。  
+私たちと一緒に新しい世界を構築するのに興味がある方は、ぜひ気軽にお声掛けください！  
+Engineer(Unity, AWS, and more!)、Marketer、Designer、Researcher、Community Manager...
 [こちらまでご連絡ください！](mailto:hayashi.yuto@neotopia.app?subject=Neotopiaへの問い合わせ&body=Neotopia代表%20林裕人宛%0D%0A%0D%0A%0D%0A—————————%0D%0Aお名前とご所属をお書きください) をご確認ください。
 
 </details>
