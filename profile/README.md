@@ -21,7 +21,7 @@
 ---
 
 
-<h4>:handshake: Neotopiaチームに参加する？</h4>
+<h4>:handshake: Neotopiaへのお問い合わせ</h4>
 
-[ご連絡はこちらまで](mailto:hayashi.yuto@neotopia.site?subject=Neotopiaへの問い合わせ&body=Neotopia代表%20林裕人宛%0D%0A%0D%0A%0D%0A—————————%0D%0Aお名前とご所属をお書きください)
+[ご相談・チームへの参加はこちらまで](mailto:hayashi.yuto@neotopia.site?subject=Neotopiaへの問い合わせ&body=Neotopia代表%20林裕人宛%0D%0A%0D%0A%0D%0A—————————%0D%0Aお名前とご所属をお書きください)
 
