@@ -1,31 +1,28 @@
-# :earth_asia: Neotopia
+# :earth_asia: Neotopia inc
 
 ---
 
 ### :chart_with_upwards_trend: Vision
 
-**「すべての人間がAIと共存する素晴らしい世界を作る」**
+**「仲間と共に、まだ見ぬ素晴らしいものを作り出す」**
 
 ### :fire: Mission
 
-- ”素晴らしいこと”をより多く達成できるための、人間とAIの関係を考える
-- お客様がそれを達成する上での課題を解決する
+- プロジェクトのテーマごとに“素晴らしい”状態とは何かを構想する
+- お客様がそれを達成する上での課題を、テクノロジーを活用して解決する
 
 ### :sparkles: Value
 
-- 真善美: どうあるべきかを考え抜き、自分なりの答えを出す
-- Issue Driven: 本当に重要なこと=Issueを追求し、その解決/達成にコミットする
-- Diversity: 多様な価値観を認め、多角的に議論する
-- Be Open: 相手を信頼し、状況を開示する
-- Do Agile: 試行・振り返り・記録を素早く繰りかえすシステムを重視する。過去にとらわれず、積極的・大胆・スピーディにカイゼンする
+- Issue Driven: 本当に重要な問題=Issueを追求し、自分なりの答えを出し、その解決/達成にコミットする
+- Leadership: 達成にコミットし、それに必要なことを実行する（セクショナリズムに陥らない）
+- Do Agile: やってみないとわからない。ミニマムな試行・振り返り・記録を素早く繰りかえすシステムを重視する。過去にとらわれず、積極的・大胆・スピーディにカイゼンする
+- Be Open: 相手を信頼し、状況を開示し情報を共有する
 
 ---
 
 <details>
 <summary><h4>:handshake: Neotopiaチームに参加する？</h4></summary>
 
-私たちと一緒に新しい世界を構築するのに興味がある方は、ぜひ気軽にお声掛けください！  
-Engineer、Marketer、Designer、Researcher、Community Manager... Welcome the members from over sea.
-[こちらまでご連絡ください！](mailto:hayashi.yuto@neotopia.app?subject=Neotopiaへの問い合わせ&body=Neotopia代表%20林裕人宛%0D%0A%0D%0A%0D%0A—————————%0D%0Aお名前とご所属をお書きください) をご確認ください。
+[ご連絡はこちらまで](mailto:hayashi.yuto@neotopia.site?subject=Neotopiaへの問い合わせ&body=Neotopia代表%20林裕人宛%0D%0A%0D%0A%0D%0A—————————%0D%0Aお名前とご所属をお書きください) をご確認ください。
 
 </details>
